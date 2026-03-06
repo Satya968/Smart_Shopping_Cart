@@ -115,26 +115,6 @@ Motors are powered using an **external 11V supply**.
 
 ---
 
-# Circuit Diagrams
-
-## ESP32-CAM and Arduino Setup
-
-![ESP32 CAM Setup](ESP32_CAM_SETUP.jpeg)
-
----
-
-## LCD Display Wiring
-
-![LCD Setup](LCD_DISPLAY_SETUP.jpeg)
-
----
-
-## Robot Hardware Architecture
-
-![Robot System](colour_following_robot.png)
-
----
-
 # Software Architecture
 
 The system uses two main Python programs:
